@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0189-rotate-array) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1212-sequential-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

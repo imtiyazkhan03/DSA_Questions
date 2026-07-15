@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |

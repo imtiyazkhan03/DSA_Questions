@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |

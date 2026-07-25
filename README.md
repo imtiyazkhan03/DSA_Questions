@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0414-third-maximum-number) |
+| [3859-maximum-product-of-two-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0907-koko-eating-bananas](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
+| [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->

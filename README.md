@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3859-maximum-product-of-two-digits) |
@@ -118,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |

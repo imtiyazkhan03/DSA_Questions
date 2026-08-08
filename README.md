@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0909-stone-game) |
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |

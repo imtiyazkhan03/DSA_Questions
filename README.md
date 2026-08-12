@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Recursion
 |  |
 | ------- |

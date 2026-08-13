@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [1685-stone-game-v](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2156-stone-game-ix](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2156-stone-game-ix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2156-stone-game-ix](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2156-stone-game-ix) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
+| [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2156-stone-game-ix) |
 ## Minimax
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -266,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2156-stone-game-ix) |
 ## Depth-First Search
 |  |

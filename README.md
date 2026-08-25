@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4107-find-missing-elements) |
 ## String
 |  |

@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3561-remove-methods-from-project](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -346,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->

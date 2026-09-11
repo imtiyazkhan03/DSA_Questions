@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1212-sequential-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1212-sequential-digits) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0486-predict-the-winner) |
+| [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |

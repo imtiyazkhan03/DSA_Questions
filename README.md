@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1685-stone-game-v) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1685-stone-game-v) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4284-smallest-stable-index-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4284-smallest-stable-index-i) |

@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1685-stone-game-v) |
@@ -381,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

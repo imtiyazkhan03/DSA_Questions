@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3811-reverse-degree-of-a-string) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |

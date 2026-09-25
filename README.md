@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
+| [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [1487-cinema-seat-allocation](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0977-distinct-subsequences-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2039-sum-game) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [3561-remove-methods-from-project](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3561-remove-methods-from-project) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -360,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |

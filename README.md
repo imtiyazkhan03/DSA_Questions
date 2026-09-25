@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3840-find-x-value-of-array-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3840-find-x-value-of-array-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3859-maximum-product-of-two-digits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |

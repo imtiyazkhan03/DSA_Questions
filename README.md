@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0886-score-of-parentheses) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [3561-remove-methods-from-project](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3561-remove-methods-from-project) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Nim Game

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |

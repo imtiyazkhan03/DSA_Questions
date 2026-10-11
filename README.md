@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1212-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3805-maximize-active-section-with-trade-i) |

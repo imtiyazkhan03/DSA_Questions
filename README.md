@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4107-find-missing-elements) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |

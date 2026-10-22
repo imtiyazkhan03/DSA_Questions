@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3886-sum-of-sortable-integers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4107-find-missing-elements) |

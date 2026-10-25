@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1254-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1487-cinema-seat-allocation](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1487-cinema-seat-allocation) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1254-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1254-number-of-closed-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3561-remove-methods-from-project](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1254-number-of-closed-islands) |
 | [3561-remove-methods-from-project](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3561-remove-methods-from-project) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List

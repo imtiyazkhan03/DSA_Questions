@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3561-remove-methods-from-project](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3561-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -513,10 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

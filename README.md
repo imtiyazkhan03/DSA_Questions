@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3665-twisted-mirror-path-count](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree

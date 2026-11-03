@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3824-number-of-unique-xor-triplets-i) |

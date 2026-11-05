@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1487-cinema-seat-allocation](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1487-cinema-seat-allocation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1188-brace-expansion-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1188-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0189-rotate-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |

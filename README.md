@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2039-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2409-count-days-spent-together) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3811-reverse-degree-of-a-string) |

@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2002-stone-game-viii) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0189-rotate-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |

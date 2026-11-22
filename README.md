@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2039-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2409-count-days-spent-together) |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-shift-2d-grid](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1522-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1240-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -622,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

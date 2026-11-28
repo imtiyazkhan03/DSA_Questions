@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4107-find-missing-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3859-maximum-product-of-two-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4107-find-missing-elements](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/imtiyazkhan03/DSA_Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
